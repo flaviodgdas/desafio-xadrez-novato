@@ -14,9 +14,11 @@ int main(){
     }
 
     //Mover bispo cinco casas para direita/cima
-    while (bispo <= 4)
+    while (bispo <= 5)
     {
-        printf("Direita/cima \n");
+        printf("Direita \n");
+        bispo ++;
+        printf("cima \n");
         bispo ++;
     } 
 
