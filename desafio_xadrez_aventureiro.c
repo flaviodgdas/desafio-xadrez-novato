@@ -2,7 +2,7 @@
 
 int main(){
 
-    printf("Desafio Xdrez-Novato: Movimentos, Torre, Bispo e Rainha.\n");
+    printf("Desafio Xdrez-Aventureiro: Movimentos, Torre, Bispo e Rainha.\n");
 
     int bispo = 0;
     int rainha = 0;
